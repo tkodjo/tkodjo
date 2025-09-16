@@ -21,7 +21,6 @@ I thrive in **stochastic, risk-averse contexts**, applying **cross-disciplinary 
 - Applying **NLP sentiment analysis** and computational linguistics to United Nations Security Council and African Union Peace and Security Council communiqués.  
 - Translating diplomatic language into **policy-relevant signals**, supporting negotiation strategies and governance decisions.  
 - Prototyping dashboards for **real-time monitoring** of diplomatic discourse dynamics.
--   
 
 ### ☁️ Complex Systems in Global Governance  
 - Creating **cloud-based architectures** for analyzing entangled system dynamics in uncertain environments.  
