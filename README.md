@@ -16,7 +16,7 @@ I thrive in **stochastic, risk-averse contexts**, applying **cross-disciplinary 
 
 ## Side Projects  
 
-### 🛰️ Measuring Diplomatic Intent (2025)  
+### 🛰️ Measuring Diplomatic Intent and Tone (DITS)  
 - Developing the **DITS: Diplomatic Intent and Tone Scale**, a framework to systematically measure tone and intent in multilateral discourse.  
 - Applying **NLP sentiment analysis** and computational linguistics to United Nations Security Council and African Union Peace and Security Council communiqués.  
 - Translating diplomatic language into **policy-relevant signals**, supporting negotiation strategies and governance decisions.  
